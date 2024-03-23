@@ -1,0 +1,60 @@
+header{
+    background-color: rgb(247, 181, 181);
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-width: medium;
+}
+nav{
+    background-color: rgb(196, 248, 118);
+    border-style: solid;
+    border-width: medium;
+    border-color: green;
+    padding: 10px;
+    margin: 10px;
+}
+main{
+    background-color: rgb(247, 181, 181);
+    border-style: solid;
+    border-color: red;
+    padding-bottom: 10px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+aside{
+    background-color: gainsboro;
+    border-style: solid;
+    border-color: gray;
+    float: right;
+    margin-top: 37px;
+    padding-bottom: 255px;
+    margin-right: 20px; 
+    padding-left:60px;
+}
+article{
+    background-color: gainsboro;
+    border-style: solid;
+    border-color: gray;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    padding-right: 80%;
+    
+}
+section{
+    background-color: rgb(110, 159, 233);
+    border-style: solid;
+    border-color:blue;
+    margin-bottom: 20px;
+    width: 1700%;
+    padding: 1px;
+
+}
+footer{
+     background-color: rgb(247, 181, 181);
+border-style: solid;
+    border-color: red;
+    padding: 10px;
+}
