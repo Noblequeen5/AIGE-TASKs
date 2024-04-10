@@ -1,0 +1,23 @@
+.title{
+    width: 600px;
+}
+center{
+    margin-top: 200px;
+    font-size: 25px;
+    width: 700px;
+    text-align: center;
+    margin-left: 350px;
+   
+}
+button{
+    background-color: black;
+    color: white;
+    display: block;
+    margin: auto;
+    font-size: 15px;
+    padding: 1%;
+    border-radius: 10px;
+    border: solid;
+    margin-top: 0%;
+
+}
